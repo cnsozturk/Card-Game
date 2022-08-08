@@ -1,0 +1,55 @@
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\bin\Debug\Q1-1.exe.config
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\bin\Debug\Q1-1.exe
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\bin\Debug\Q1-1.pdb
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1-1.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1_1.Form1.resources
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1_1.Properties.Resources.resources
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1-1.csproj.GenerateResource.cache
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1-1.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1-1.exe
+C:\Users\Cansu\source\repos\Q1-1\Q1-1\obj\Debug\Q1-1.pdb
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\bin\Debug\Q1-1.exe.config
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\bin\Debug\Q1-1.exe
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\bin\Debug\Q1-1.pdb
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1-1.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1_1.Form1.resources
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1_1.Properties.Resources.resources
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1-1.csproj.GenerateResource.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1-1.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1-1.exe
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2)\Q1-1\obj\Debug\Q1-1.pdb
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\bin\Debug\Q1-1.exe.config
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\bin\Debug\Q1-1.exe
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\bin\Debug\Q1-1.pdb
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1_1.Form1.resources
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1_1.Properties.Resources.resources
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.GenerateResource.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.exe
+C:\Users\Cansu\source\repos\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.pdb
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\bin\Debug\Q1-1.exe.config
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\bin\Debug\Q1-1.exe
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\bin\Debug\Q1-1.pdb
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1_1.Form1.resources
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1_1.Properties.Resources.resources
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.GenerateResource.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.exe
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy\Q1-1\obj\Debug\Q1-1.pdb
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\bin\Debug\Q1-1.exe.config
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\bin\Debug\Q1-1.exe
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\bin\Debug\Q1-1.pdb
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1-1.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1_1.Form1.resources
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1_1.Properties.Resources.resources
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1-1.csproj.GenerateResource.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1-1.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1-1.exe
+C:\Users\Cansu\Desktop\Assignment 3\Q1-1 - Copy (2) - Copy - Copy\Q1-1\obj\Debug\Q1-1.pdb
